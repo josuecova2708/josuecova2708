@@ -44,7 +44,7 @@
 <!-- SUPPORT -->
 <hr>
    
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS
 <hr>
 <div style="display: block;">
 <p>
@@ -57,6 +57,7 @@
   </p>
 </p>
 </div>
+ -->
 <hr>
 <br>
 <br>
